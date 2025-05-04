@@ -103,4 +103,3 @@ def get_trending_playlist_data(playlist_id, access_token):
     df = pd.DataFrame(music_data)
 
     return df
-
